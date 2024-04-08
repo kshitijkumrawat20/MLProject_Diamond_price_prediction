@@ -1,0 +1,8 @@
+[ 2024-04-08 14:11:55,651 ] 96 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2024-04-08 14:11:55,651 ] 96 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-04-08 14:12:16,784 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Apr/2024 14:12:16] "GET / HTTP/1.1" 200 -
+[ 2024-04-08 14:12:17,571 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Apr/2024 14:12:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-04-08 14:12:31,170 ] 65 root - INFO - Dataframe formed
+[ 2024-04-08 14:12:31,170 ] 13 root - INFO - Prediction pipeline started
+[ 2024-04-08 14:12:32,550 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Apr/2024 14:12:32] "POST / HTTP/1.1" 200 -
